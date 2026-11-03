@@ -53,10 +53,10 @@
 
 | App | Download | What it installs |
 | --- | --- | --- |
-| Gwisp Setup EXE | [Download Windows setup EXE](https://github.com/fantasmagorikus/gwisp/releases/latest/download/Gwisp-Setup.exe) | Alpha build 1.0.3 guided installer with language, Main/Sync OCR/both, and AI provider selection |
-| Gwisp Main | [Download Windows installer ZIP](https://github.com/fantasmagorikus/gwisp/releases/latest/download/Gwisp-Main-Windows.zip) | Alpha build 1.0.3 main OCR + selectable AI provider desktop app |
-| Gwisp Sync OCR | [Download Windows installer ZIP](https://github.com/fantasmagorikus/gwisp/releases/latest/download/Gwisp-SyncOCR-Windows.zip) | Alpha build 1.0.3 secondary-machine capture companion |
-| SHA-256 checksums | [Download SHA256SUMS.txt](https://github.com/fantasmagorikus/gwisp/releases/latest/download/SHA256SUMS.txt) | Integrity hashes for the public release files |
+| Gwisp Setup EXE | [Download Windows setup EXE](https://github.com/phantasmagorie/gwisp/releases/latest/download/Gwisp-Setup.exe) | Alpha build 1.0.3 guided installer with language, Main/Sync OCR/both, and AI provider selection |
+| Gwisp Main | [Download Windows installer ZIP](https://github.com/phantasmagorie/gwisp/releases/latest/download/Gwisp-Main-Windows.zip) | Alpha build 1.0.3 main OCR + selectable AI provider desktop app |
+| Gwisp Sync OCR | [Download Windows installer ZIP](https://github.com/phantasmagorie/gwisp/releases/latest/download/Gwisp-SyncOCR-Windows.zip) | Alpha build 1.0.3 secondary-machine capture companion |
+| SHA-256 checksums | [Download SHA256SUMS.txt](https://github.com/phantasmagorie/gwisp/releases/latest/download/SHA256SUMS.txt) | Integrity hashes for the public release files |
 
 > Run `Gwisp-Setup.exe` for the guided installer. The ZIP downloads
 > are still available as manual fallback packages. The installer and both
