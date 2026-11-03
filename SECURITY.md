@@ -47,4 +47,4 @@ bezahlten Aktivitaeten. Nutzung auf eigene Verantwortung.
 
 ## Reporting
 
-Report security concerns privately to the project owner, @fantasmagorikus.
+Report security concerns privately to the project owner, @phantasmagorie.
