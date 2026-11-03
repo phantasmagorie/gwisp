@@ -86,7 +86,7 @@ AI provider options for the main app:
 The EXE first looks for the ZIP packages beside itself. If they are not there,
 it downloads them from the latest GitHub release:
 
-https://github.com/fantasmagorikus/gwisp/releases/latest/download
+https://github.com/phantasmagorie/gwisp/releases/latest/download
 
 The URL must contain:
 
